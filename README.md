@@ -18,7 +18,7 @@ I build scalable web apps, UI systems, and clean developer-friendly experiences.
 **UI / Tools:** Material UI, Tailwind, Storybook, Figma  
 **Testing:** Jest, Testing Library  
 **Build / Dev:** Nx, Vite, Webpack, GitHub Actions  
-**Backend (basic):** Node.js, Express
+**Backend:** Node.js, .Net, Java
 
 ---
 
