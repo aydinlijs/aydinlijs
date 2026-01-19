@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I’m Bahruz Aydinli 👋
 
-<!--
-**aydinlijs/aydinlijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer from **Baku, Azerbaijan** 🇦🇿  
+I build scalable web apps, UI systems, and clean developer-friendly experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+- Build modern web apps with **Angular / React / TypeScript**
+- Design reusable UI components & frontend architecture
+- Write maintainable, scalable code with strong patterns
+- Collaborate closely with backend, product, and QA teams
+
+---
+
+## 🧰 Tech Stack
+**Frontend:** Angular, React, TypeScript, JavaScript, RxJS, HTML, SCSS  
+**UI / Tools:** Material UI, Tailwind, Storybook, Figma  
+**Testing:** Jest, Testing Library  
+**Build / Dev:** Nx, Vite, Webpack, GitHub Actions  
+**Backend (basic):** Node.js, Express
+
+---
+
+## 📌 Currently focusing on
+- 📱 Building a mobile app (React Native + backend)
+- 🧠 Improving system design + architecture skills
+- ⚡ Better performance, bundle size, and developer experience
+
+---
+
+## 📈 GitHub Activity
+I enjoy shipping useful features, improving UX, and keeping codebases clean ✅
+
+---
+
+## 🌍 Location
+📍 Baku, Azerbaijan
+
+---
+
+## 📫 Contact
+- Email: **bahruz.aydinli@gmail.com**
+- GitHub: [@aydinlijs](https://github.com/aydinlijs)
+
+---
+
+### ✨ Motto
+**Keep it clean. Keep it scalable. Keep shipping.**
