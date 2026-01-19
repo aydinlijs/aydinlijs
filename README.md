@@ -23,8 +23,8 @@ I build scalable web apps, UI systems, and clean developer-friendly experiences.
 ---
 
 ## 📌 Currently focusing on
-- 📱 Building a mobile app (React Native + backend)
-- 🧠 Improving system design + architecture skills
+- 📱 Building scalable architectures for clients
+- 🧠 Improving agentic tool + system design skills
 - ⚡ Better performance, bundle size, and developer experience
 
 ---
