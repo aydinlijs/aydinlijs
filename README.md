@@ -1,49 +1,81 @@
 # Hi, I’m Bahruz Aydinli 👋
 
-Frontend Engineer from **Baku, Azerbaijan** 🇦🇿  
-I build scalable web apps, UI systems, and clean developer-friendly experiences.
+Full-Stack Software Engineer from **Baku, Azerbaijan** 🇦🇿
+
+I build scalable web applications, APIs, and developer platforms with a strong focus on clean architecture, performance, and maintainability.
 
 ---
 
 ## 🚀 What I do
-- Build modern web apps with **Angular / React / TypeScript**
-- Design reusable UI components & frontend architecture
-- Write maintainable, scalable code with strong patterns
-- Collaborate closely with backend, product, and QA teams
+
+* Build modern web applications with **Angular, React, and TypeScript** on the frontend and **Java, .NET and Node.js** on the backend
+* Design scalable backend services and APIs
+* Architect maintainable systems across frontend and backend
+* Improve developer experience, performance, and reliability
+* Collaborate closely with product, design, QA, and engineering teams
 
 ---
 
 ## 🧰 Tech Stack
-**Frontend:** Angular, React, TypeScript, JavaScript, RxJS, HTML, SCSS  
-**UI / Tools:** Material UI, Tailwind, Storybook, Figma  
-**Testing:** Jest, Testing Library  
-**Build / Dev:** Nx, Vite, Webpack, GitHub Actions  
-**Backend:** Node.js, .Net, Java
+
+### Frontend
+
+Angular, React, TypeScript, JavaScript, RxJS, HTML, CSS/SCSS, Tailwind
+
+### Backend
+
+Node.js, Express, NestJS, .NET, Java, Spring Boot
+
+### Databases & Messaging
+
+SQL Server, MySQL, PostgreSQL, Elasticsearch, RabbitMQ
+
+### Cloud & DevOps
+
+Docker, GitHub Actions, Azure DevOps, Nginx
+
+### UI & Design
+
+Angular Material, Material UI, Storybook, Figma
+
+### Testing
+
+Jest, Testing Library, Cypress, Playwright
 
 ---
 
-## 📌 Currently focusing on
-- 📱 Building scalable architectures for clients
-- 🧠 Improving agentic tool + system design skills
-- ⚡ Better performance, bundle size, and developer experience
+## 📌 Currently Focusing On
+
+* 🏗 Building scalable full-stack architectures
+* 🤖 AI-powered applications and agentic systems
+* ⚡ Performance, observability, and developer experience
+* 🔄 Distributed systems, APIs, and integrations
 
 ---
 
-## 📈 GitHub Activity
-I enjoy shipping useful features, improving UX, and keeping codebases clean ✅
+## 📈 What I Enjoy
+
+* Turning complex business requirements into simple solutions
+* Building reusable systems and internal tooling
+* Shipping features that create measurable user impact
+* Keeping codebases clean, scalable, and easy to maintain
 
 ---
 
 ## 🌍 Location
+
 📍 Baku, Azerbaijan
 
 ---
 
 ## 📫 Contact
-- Email: **bahruz.aydinli@gmail.com**
-- GitHub: [@aydinlijs](https://github.com/aydinlijs)
+
+* Email: **[bahruz.aydinli@gmail.com](mailto:bahruz.aydinli@gmail.com)**
+* GitHub: **@aydinlijs**
+* LinkedIn: Open to connecting with fellow engineers and builders
 
 ---
 
 ### ✨ Motto
-**Keep it clean. Keep it scalable. Keep shipping.**
+
+**Build thoughtfully. Scale confidently. Keep shipping.**
